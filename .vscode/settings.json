@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.import.maven.offline.enabled": true,
+    "java.import.maven.enabled": true
+}

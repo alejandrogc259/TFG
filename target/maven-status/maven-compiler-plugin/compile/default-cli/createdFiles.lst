@@ -1,0 +1,14 @@
+com\example\OpenDocumentMetadata.class
+com\example\PrimaryController.class
+com\example\XlsxmMetadata.class
+com\example\JpegMetadata.class
+com\example\DocXlsPptMetadata.class
+com\example\Mp3Metadata.class
+com\example\MetadataManager.class
+com\example\PdfMetadata.class
+com\example\XCell.class
+com\example\DocxmMetadata.class
+com\example\App.class
+com\example\PptxmMetadata.class
+com\example\ImageMetadata.class
+com\example\DirectoryViewController.class
